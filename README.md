@@ -1,5 +1,6 @@
 # NIK MUHAMMAD FARIS
 2213935
+- i added new emoji 🏃🏃
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
