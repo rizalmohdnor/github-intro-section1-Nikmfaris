@@ -1,6 +1,6 @@
-# [**✨ Nik Muhammad Faris ✨**](nik.md)
+# [**✨ Nik Muhammad Faris 2213935✨**](nik.md)
 (click it to know me more)
-🚀 2213935  🤛 
+
 ## i added emoji 🏃🏃
 # :wave: The Basics of GitHub 
 
