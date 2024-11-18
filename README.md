@@ -1,4 +1,4 @@
-# [**✨ Nik Muhammad Faris 2213935✨**](nik.md)
+# [**✨ Nik Muhammad Faris 2213935✨**](folder/nik.md)
 (click it to know me more)
 
 ## i added emoji 🏃🏃
