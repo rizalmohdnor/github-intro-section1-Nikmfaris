@@ -1,4 +1,5 @@
-# NIK MUHAMMAD FARIS
+# [**✨ Nik Muhammad Faris ✨**](nik.md)
+(click it to know me more)
 🚀 2213935  🤛 
 ## i added emoji 🏃🏃
 # :wave: The Basics of GitHub 
@@ -108,3 +109,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+`
