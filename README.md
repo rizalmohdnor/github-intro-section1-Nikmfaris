@@ -1,5 +1,5 @@
-# [**✨ Nik Muhammad Faris 2213935✨**](folder/nik.md)
-(click it to know me more)
+**✨ Nik Muhammad Faris 2213935✨**
+[🌟 **Click here to know me more!** 🌟](folder/nik.md)
 
 ## i added emoji 🏃🏃
 # :wave: The Basics of GitHub 
