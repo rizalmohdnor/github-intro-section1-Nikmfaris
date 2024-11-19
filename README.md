@@ -3,10 +3,11 @@
 
 
 ## i added emoji 🏃🏃
+![a snapshot of your app running](https://github.com/Nikmfaris/mobile)
 # :wave: The Basics of GitHub 
 
 
-![App Snapshot](https://github.com/Nikmfaris/mobile/tree/main)
+
 
 
 ## 🤓 Course overview and learning outcomes 
