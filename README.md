@@ -4,7 +4,7 @@
 
 ## i added emoji 🏃🏃
 ![a snapshot of your app running](https://github.com/Nikmfaris/mobile)
-# :wave: The Basics of GitHu
+# :wave: The Basics of GitHub
 
 
 
